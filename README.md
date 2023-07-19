@@ -1,13 +1,13 @@
-About Me:
+**About Me:**
 - I'm a professional data analyst with proven leadership skills, and reputable technical prowess with SQL, Python, and BI engineering.
 
-Summarized Technical Experience:
+**Summarized Technical Experience:**
 - 4 years experience in the Financial Industry as of August 2023.
 - 4 years experience developing Python scripts for data transformation, data pipelining, and process automation.
 - 3 years experience building complex SQL queries.
 - 2 years experience engineering advanced Tableau dashboards for reporting & monitoring KPIs.
 
-For professional inquiries, please reach out to me via LinkedIn:
+**For professional inquiries, please reach out to me via LinkedIn:**
 - https://www.linkedin.com/in/vincent-zhao-b1b88910b/
 
 Thank you! Look forward to connecting.
