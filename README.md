@@ -8,7 +8,7 @@
 - 2 years experience engineering advanced Tableau dashboards for reporting & monitoring KPIs.
 
 **For professional inquiries, please reach out to me via LinkedIn:**
-- https://www.linkedin.com/in/vincent-zhao-b1b88910b/
+- https://www.linkedin.com/in/vincent-zhao/
 
 Thank you! Look forward to connecting.
 
